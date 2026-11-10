@@ -1,0 +1,29 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    font-size: 22px;
+    border: 4px solid black;
+}
+
+h1, h2 {
+    color: burlywood; 
+}
+
+p {
+    color: black;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
