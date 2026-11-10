@@ -1,0 +1,27 @@
+/*
+Units:  px(User can't change the view point settings)- 16px default
+        rem (1rem default; 2rem = 32px)
+        em 
+        percentage
+padding: the region between the h1 and the box.
+*/
+
+h1{
+    border: 2px dashed black;
+    width: 50%;
+    font-size: 3rem;
+    padding: 0.5em;
+}
+
+main{
+    font-size: 2rem;
+}
+
+p{
+    font-size: 2rem;
+    width: 20ch;
+}
+
+body{
+    background-color:cadetblue;
+}
