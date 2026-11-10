@@ -1,0 +1,16 @@
+body{
+    padding:  5%;
+    font-size: 2rem; 
+
+}
+
+/*input, button{
+    font: inherit;
+}*/
+
+p{
+    text-decoration:none;
+    line-height: 1.5em;
+    text-align: justify;
+    font-style: oblique;
+}
