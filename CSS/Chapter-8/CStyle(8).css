@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  padding: 5% 10%;
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+}
+
+ol{
+    list-style-type: lower-alpha;
+    /* text-align:left; */
+    list-style-position:outside;
+} 
+ul li{
+  text-align: justify;
+  list-style-position: inside;
+}
+
+ul ::marker{
+  color: red;
+  font-family: fantasy;
+  content: "Only $5 >> ";
+} 
